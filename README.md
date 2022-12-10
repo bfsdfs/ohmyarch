@@ -16,3 +16,7 @@ sudo nvim /etc/zsh/zshenv
 ```
 yay noto-fonts noto-fonts-cjk ttf-twemoji ttf-nerd-fonts-symbols consolas-font
 ```
+## 03.Alacritty配置
+```
+yay alacritty
+```
