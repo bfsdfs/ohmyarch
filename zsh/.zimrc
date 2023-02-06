@@ -59,4 +59,4 @@ zmodule zsh-users/zsh-autosuggestions
 #
 
 # Powerlevel10k Theme
-zmodule romkatv/powerlevel10k
+# zmodule romkatv/powerlevel10k
